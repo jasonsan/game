@@ -7,6 +7,8 @@ Dictionaries and Arrays between
 	MouseInt,
 	MouseString
 '''
+
+
 from pygame.locals import *
 
 class KeyboardMouseRef:
